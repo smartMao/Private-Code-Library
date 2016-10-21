@@ -2,9 +2,8 @@
 
 /**
  * 根据二维数组中的某个键进行排序
- * @param $array
- * @param $key
- * @param string $order
+ * @param $list
+ * @param $field
  * @return array
  */
 function arr_sort($list, $field)
